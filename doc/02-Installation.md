@@ -125,7 +125,7 @@ Below is a list with examples for various distributions. The additional package 
 
 **Debian and Ubuntu**:
 ```
-apt-get install icingaweb2
+apt-get install icingaweb2 libapache2-mod-php
 ```
 
 **RHEL, CentOS and Fedora**:
